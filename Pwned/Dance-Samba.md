@@ -62,6 +62,8 @@ netexec -t 64 smb 172.18.0.2 -u macarena -p /usr/share/wordlists/rockyou.txt \
 ```
 <kbd> <img src="https://github.com/sdeiturralde/CTFs/blob/main/Imgs/Samba-dance%203.png"  height:500px > </kbd>
 
+
+
 And indeed our hunch was correct, the password is **`donald`**.
 With that we can both confirm  the folder that we discovered earlier and get into that same folder.
 <kbd> <img src="https://github.com/sdeiturralde/CTFs/blob/main/Imgs/Samba-dance%204.png"  height:500px > </kbd>
